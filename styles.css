@@ -1,0 +1,17 @@
+img {
+    width: 200px;
+}
+
+body {
+    background: skyblue;
+    color: black;
+}
+
+.classes {
+    display: flex;
+    background: black;
+}
+
+h1 {
+    text-align: center;
+}
